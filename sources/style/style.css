@@ -1,0 +1,17 @@
+main {
+    position: relative;
+}
+
+
+.top-right {
+    position: absolute;
+    top: 18px;
+    right: 30px;
+}
+
+.top-right>a {
+    text-decoration: none;
+    color: black;
+    font-family: cursive;
+    font-size: 22px;
+}
